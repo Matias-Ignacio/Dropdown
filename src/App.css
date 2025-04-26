@@ -1,0 +1,19 @@
+
+.App{
+  height: 200vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fcfcfc;
+  position: relative;
+  color: black;
+}
+
+.content{
+  position: absolute;
+  top: 20%;
+  display: flex;
+  gap: 20px;
+}
+

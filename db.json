@@ -1,0 +1,25 @@
+{
+    "Api": [
+        {
+            "id": 1,
+            "titulo": "Memoria Ram",
+            "descripcion": "Blablabla",
+            "categoria": "Memoria Ram",
+            "imagen": "/sdfsdf/sdf.jpg"
+        },
+        {
+            "id": 2,
+            "titulo": "Memoria Ram",
+            "descripcion": "Blablabla",
+            "categoria": "Memoria Ram",
+            "imagen": "/sdfsdf/sdf.jpg"
+        },
+        {
+            "id": 3,
+            "titulo": "Memoria Ram",
+            "descripcion": "Blablabla",
+            "categoria": "Memoria Ram",
+            "imagen": "/sdfsdf/sdf.jpg"
+        }
+    ]
+}
